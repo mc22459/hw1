@@ -8,4 +8,3 @@ Bring .scad file to class next week
 
 
 I made a cup becuase, at the time, my kitchen was a barren wasteland where subjects were forced to drink water directly from the faucet. 
-
